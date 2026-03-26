@@ -71,7 +71,7 @@ To analyze customer churn behavior and build a machine learning model to predict
 ---
 
 ## 🤖 Model Performance
-- Accuracy: **(put your actual accuracy here, e.g., 82%)**
+- Accuracy: **(81%)**
 
 ---
 
